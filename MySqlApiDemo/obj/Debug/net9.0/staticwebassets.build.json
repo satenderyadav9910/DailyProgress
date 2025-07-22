@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NCHfsXKnEBKQ6Bu+GUjHuYuOXicuG2zSazHjk93BfGg=",
+  "Source": "MySqlApiDemo",
+  "BasePath": "_content/MySqlApiDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
