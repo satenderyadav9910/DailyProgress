@@ -2625,11 +2625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\MyWebApiProject\\MyWebApiProject.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MyWebApiProject\\MyWebApiProject.csproj",
       "projectName": "MyWebApiProject",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\project\\MyWebApiProject\\MyWebApiProject.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MyWebApiProject\\MyWebApiProject.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\project\\MyWebApiProject\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MyWebApiProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

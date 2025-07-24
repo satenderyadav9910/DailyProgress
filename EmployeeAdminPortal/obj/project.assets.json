@@ -5184,11 +5184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
       "projectName": "EmployeeAdminPortal",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\project\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\project\\EmployeeAdminPortal\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\EmployeeAdminPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

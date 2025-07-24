@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Documents\\project\\MySqlApiDemo\\MySqlApiDemo.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MySqlApiDemo\\MySqlApiDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Documents\\project\\MySqlApiDemo\\MySqlApiDemo.csproj": {
+    "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MySqlApiDemo\\MySqlApiDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\MySqlApiDemo\\MySqlApiDemo.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MySqlApiDemo\\MySqlApiDemo.csproj",
         "projectName": "MySqlApiDemo",
-        "projectPath": "C:\\Users\\ASUS\\Documents\\project\\MySqlApiDemo\\MySqlApiDemo.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MySqlApiDemo\\MySqlApiDemo.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Documents\\project\\MySqlApiDemo\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\project\\DailyProgress\\MySqlApiDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
